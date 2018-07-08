@@ -1,0 +1,2 @@
+# FINDHIM_face_recognition
+"FINDHIM", it works upon the OpenCV (a Image Processing) model with the integration of machine learning algorithms. Basic concept of this project was to memorize faces i.e. face recognition and string in the database and track there way in every possible way through CCTV footage's and many things. The application memorizes faces and the search is improved by the machine learning by making certain changes and modulations in the numpy array of  every different faces. 
